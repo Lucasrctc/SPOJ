@@ -1,2 +1,2 @@
 # SPOJ
-Solutions to SPOJ problems, learning fortran
+Solutions to Sphere Online Judge(SPOJ) competitive programming problems in Fortran
