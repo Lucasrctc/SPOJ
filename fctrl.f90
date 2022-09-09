@@ -10,8 +10,8 @@ PROGRAM FCTRL
         ans = 0
         DO WHILE(v(i) .GT. 0)
             v(i) = v(i) / 5
-	    ans = ans + v(i)
-	END DO
-	WRITE(*,*) ans
+            ans = ans + v(i)
+        END DO
+        WRITE(*,*) ans
     END DO
 END PROGRAM FCTRL
